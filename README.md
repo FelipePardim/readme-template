@@ -33,7 +33,7 @@
     - [Rodando aplicação web](#rodando-web).
     - [Rodando aplicativo mobile](#rodando-mobile).
 - [Tecnologias](#tecnologias).
-- [License](#licença).
+- [Licença](#licença).
 - [Autores](#autores).
 ---
 
