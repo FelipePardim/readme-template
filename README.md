@@ -159,7 +159,7 @@ Este projeto está sobre a [LICENSE](https://github.com/USUARIO/PROJECT LINK/LIC
             <img src="https://img.shields.io/badge/GitHub-USUARIO-6f42c1?logo=github"/>
         </a>
         <a alt="Felipe Pardim" href="https://www.linkedin.com/in/USUARIO">
-            <img src="https://img.shields.io/badge/LinkedIn-USUARIO%20Pardim-blue?logo=linkedin"/>
+            <img src="https://img.shields.io/badge/LinkedIn-USUARIO%20-blue?logo=linkedin"/>
         </a>
     </div>
 </h2>
